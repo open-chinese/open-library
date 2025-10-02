@@ -1,5 +1,6 @@
 ## Deep Learning
 By **Ilan Goodfellow, Yoshua Bengio, Aaron Courville**
+
 [https://mcube.lab.nycu.edu.tw/~cfung/docs/books/goodfellow2016deep_learning.pdf](https://mcube.lab.nycu.edu.tw/~cfung/docs/books/goodfellow2016deep_learning.pdf)
 
 
