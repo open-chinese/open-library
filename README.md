@@ -14,7 +14,7 @@ The journey begins with 10 core categories — pillars of human knowledge and im
 - **📖 Literature** – timeless stories, poems, and words that shaped our culture  
 - **🌌 Physics** – the laws that govern the universe  
 - **🧮 Mathematics** – the language of logic, patterns, and infinity  
-- **🧠 Artificial Intelligence** – machines that learn, and the future they promise  
+- **🧠 AI** – machines that learn, and the future they promise  
 - **🧬 Biology** – the science of life, from cells to ecosystems  
 - **💊 Medicine** – healing the body, extending life, understanding health  
 - **⚗️ Chemistry** – the transformations of matter, at every scale  
